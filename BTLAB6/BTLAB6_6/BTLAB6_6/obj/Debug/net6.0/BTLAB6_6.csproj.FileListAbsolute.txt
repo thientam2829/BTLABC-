@@ -1,0 +1,16 @@
+D:\BTLAB\BTLAB6\BTLAB6_6\BTLAB6_6\obj\Debug\net6.0\BTLAB6_6.GlobalUsings.g.cs
+D:\BTLAB\BTLAB6\BTLAB6_6\BTLAB6_6\obj\Debug\net6.0\BTLAB6_6.csproj.AssemblyReference.cache
+D:\BTLAB\BTLAB6\BTLAB6_6\BTLAB6_6\obj\Debug\net6.0\BTLAB6_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTLAB\BTLAB6\BTLAB6_6\BTLAB6_6\obj\Debug\net6.0\BTLAB6_6.AssemblyInfoInputs.cache
+D:\BTLAB\BTLAB6\BTLAB6_6\BTLAB6_6\obj\Debug\net6.0\BTLAB6_6.AssemblyInfo.cs
+D:\BTLAB\BTLAB6\BTLAB6_6\BTLAB6_6\obj\Debug\net6.0\BTLAB6_6.csproj.CoreCompileInputs.cache
+D:\BTLAB\BTLAB6\BTLAB6_6\BTLAB6_6\bin\Debug\net6.0\BTLAB6_6.exe
+D:\BTLAB\BTLAB6\BTLAB6_6\BTLAB6_6\bin\Debug\net6.0\BTLAB6_6.deps.json
+D:\BTLAB\BTLAB6\BTLAB6_6\BTLAB6_6\bin\Debug\net6.0\BTLAB6_6.runtimeconfig.json
+D:\BTLAB\BTLAB6\BTLAB6_6\BTLAB6_6\bin\Debug\net6.0\BTLAB6_6.dll
+D:\BTLAB\BTLAB6\BTLAB6_6\BTLAB6_6\bin\Debug\net6.0\ref\BTLAB6_6.dll
+D:\BTLAB\BTLAB6\BTLAB6_6\BTLAB6_6\bin\Debug\net6.0\BTLAB6_6.pdb
+D:\BTLAB\BTLAB6\BTLAB6_6\BTLAB6_6\obj\Debug\net6.0\BTLAB6_6.dll
+D:\BTLAB\BTLAB6\BTLAB6_6\BTLAB6_6\obj\Debug\net6.0\ref\BTLAB6_6.dll
+D:\BTLAB\BTLAB6\BTLAB6_6\BTLAB6_6\obj\Debug\net6.0\BTLAB6_6.pdb
+D:\BTLAB\BTLAB6\BTLAB6_6\BTLAB6_6\obj\Debug\net6.0\BTLAB6_6.genruntimeconfig.cache

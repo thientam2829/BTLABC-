@@ -1,0 +1,16 @@
+D:\BTLAB\BTLAB4\BTLAB4_2\BTLAB4_2\bin\Debug\net6.0\BTLAB4_2.exe
+D:\BTLAB\BTLAB4\BTLAB4_2\BTLAB4_2\bin\Debug\net6.0\BTLAB4_2.deps.json
+D:\BTLAB\BTLAB4\BTLAB4_2\BTLAB4_2\bin\Debug\net6.0\BTLAB4_2.runtimeconfig.json
+D:\BTLAB\BTLAB4\BTLAB4_2\BTLAB4_2\bin\Debug\net6.0\BTLAB4_2.dll
+D:\BTLAB\BTLAB4\BTLAB4_2\BTLAB4_2\bin\Debug\net6.0\ref\BTLAB4_2.dll
+D:\BTLAB\BTLAB4\BTLAB4_2\BTLAB4_2\bin\Debug\net6.0\BTLAB4_2.pdb
+D:\BTLAB\BTLAB4\BTLAB4_2\BTLAB4_2\obj\Debug\net6.0\BTLAB4_2.GlobalUsings.g.cs
+D:\BTLAB\BTLAB4\BTLAB4_2\BTLAB4_2\obj\Debug\net6.0\BTLAB4_2.csproj.AssemblyReference.cache
+D:\BTLAB\BTLAB4\BTLAB4_2\BTLAB4_2\obj\Debug\net6.0\BTLAB4_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTLAB\BTLAB4\BTLAB4_2\BTLAB4_2\obj\Debug\net6.0\BTLAB4_2.AssemblyInfoInputs.cache
+D:\BTLAB\BTLAB4\BTLAB4_2\BTLAB4_2\obj\Debug\net6.0\BTLAB4_2.AssemblyInfo.cs
+D:\BTLAB\BTLAB4\BTLAB4_2\BTLAB4_2\obj\Debug\net6.0\BTLAB4_2.csproj.CoreCompileInputs.cache
+D:\BTLAB\BTLAB4\BTLAB4_2\BTLAB4_2\obj\Debug\net6.0\BTLAB4_2.dll
+D:\BTLAB\BTLAB4\BTLAB4_2\BTLAB4_2\obj\Debug\net6.0\ref\BTLAB4_2.dll
+D:\BTLAB\BTLAB4\BTLAB4_2\BTLAB4_2\obj\Debug\net6.0\BTLAB4_2.pdb
+D:\BTLAB\BTLAB4\BTLAB4_2\BTLAB4_2\obj\Debug\net6.0\BTLAB4_2.genruntimeconfig.cache
