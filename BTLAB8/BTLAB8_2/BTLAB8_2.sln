@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31825.309
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTLAB8_2", "BTLAB8_2\BTLAB8_2.csproj", "{856E793A-9955-45A8-9EB0-E20F74B0366C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{856E793A-9955-45A8-9EB0-E20F74B0366C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856E793A-9955-45A8-9EB0-E20F74B0366C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856E793A-9955-45A8-9EB0-E20F74B0366C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856E793A-9955-45A8-9EB0-E20F74B0366C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98C36149-FE44-4832-B5C4-6838FE33611C}
+	EndGlobalSection
+EndGlobal
